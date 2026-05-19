@@ -1,8 +1,0 @@
-{
-  "name": "D&R Landscaping Portfolio",
-  "description": "A professional portfolio and landing page for D&R Landscaping, featuring services, testimonials, and landscape design projects in Bayonne, NJ.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
